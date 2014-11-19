@@ -30,9 +30,9 @@ I know my code is not the best organized and probably could use a few improvemen
 = Install =
 
 1. Unzip the file
-2. Copy the entire plgtv_theme_shortcodes into the plugins dir
+2. Copy the plgtv_theme_shortcodes folder into the plugins folder
 3. Activate the plugin
-4. Open any page / post with the text Editor and you will see the new button. Dont forget to open the kitchen sink (the last button in the 1st toolbar) as the button will be added to the 3rd toolbar
+4. In the Admin area open any page / post with the text Editor and you will see the new button. Dont forget to open the kitchen sink (the last button in the 1st toolbar) as the button will be added to the 3rd toolbar
 
 If you find any bugs or have any ideas, please mail me. I will be more than glad to hear from you!!
 
